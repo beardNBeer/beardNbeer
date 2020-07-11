@@ -15,7 +15,7 @@ Check steps needed to extend the webpage for interaction and news feed.
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.lsm.uni-wuppertal.de/de/alumni/dr-ing-chethan-mohan-kumar.html) and ![Image](src)
+My Alma mater [Link](https://www.lsm.uni-wuppertal.de/de/alumni/dr-ing-chethan-mohan-kumar.html) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
