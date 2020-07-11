@@ -1,4 +1,4 @@
-## Just a webpage
+## Welcome to beard'N Beer
 
 First shot at Homepage creation.
 
@@ -10,15 +10,12 @@ Check steps needed to extend the webpage for interaction and news feed.
 ## Beard
 ### Beer
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Mesopotamian masquerade
+2. Chess N Checkers
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.lsm.uni-wuppertal.de/de/alumni/dr-ing-chethan-mohan-kumar.html) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
