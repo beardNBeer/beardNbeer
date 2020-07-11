@@ -12,8 +12,8 @@ Check steps needed to extend the webpage for interaction and news feed.
 
 1. Mesopotamian masquerade
 2. Chess N Checkers
-3. [My Alma mater](https://www.lsm.uni-wuppertal.de/de/alumni/dr-ing-chethan-mohan-kumar.html) 
-4. [Dissertation](https://www.shaker.de/de/content/catalogue/index.asp?lang=de&ID=8&ISBN=978-3-8440-6635-7&search=yes) 
+3. [Post a link](https://www.lsm.uni-wuppertal.de/de/alumni/dr-ing-chethan-mohan-kumar.html) 
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
