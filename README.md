@@ -1,4 +1,4 @@
-## Welcome to beard'N Beer
+## CMK
 
 First shot at Homepage creation.
 
