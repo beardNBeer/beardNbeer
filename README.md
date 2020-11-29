@@ -12,7 +12,7 @@ Check steps needed to extend the webpage for interaction and news feed.
 
 1. Mesopotamian masquerade
 2. Chess N Checkers
-3. [Post a link](https://www.lsm.uni-wuppertal.de/de/alumni/dr-ing-chethan-mohan-kumar.html) 
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
